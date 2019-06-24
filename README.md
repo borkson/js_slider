@@ -1,5 +1,5 @@
 # Live demo
-[JS_Slider](https://borkson.github.io/js_slider/src/index.html)
+# [JS_Slider](https://borkson.github.io/js_slider/src/index.html)
 
 # js_slider
 
